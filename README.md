@@ -1,3 +1,5 @@
+Figma Design link : https://www.figma.com/design/XBejIRmaSTLthGBbFcLPJJ/Untitled?t=wGuvU8ZIIbaf2GhB-0
+Screenshots:
 ![image](https://github.com/user-attachments/assets/4c609268-ae97-40bc-9b4b-862afc744410)
 YouTube Mindful Watching – UX Redesign (Figma)
 This project addresses the issue of compulsive binge-watching on YouTube's mobile platform through subtle, user-friendly interface design. Built entirely in Figma, the goal was to create an experience that helps users become more mindful of their watch time—without disrupting the core engagement flow.
